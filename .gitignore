@@ -1,0 +1,4 @@
+rdp_*
+!rdp_control.cmd
+!rdp_control.ps1
+!rdp_control.example.cfg.json

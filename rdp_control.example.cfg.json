@@ -1,0 +1,20 @@
+{
+    "clients": {
+        "client1_hostname": {
+            "hostname": "client1_hostname",
+            "ip": "0.0.0.1",
+            "shadow": true,
+            "fullscreen": false,
+            "control": true,
+            "noconsentprompt": true
+        },
+        "client2_hostname": {
+            "hostname": "client2_hostname",
+            "ip": "0.0.0.2",
+            "shadow": false,
+            "fullscreen": false,
+            "control": true,
+            "noconsentprompt": false
+        }
+    }
+}
